@@ -37,6 +37,4 @@ public class Activity {
     private LocalDateTime updatedAt;
 
 
-
-
 }
